@@ -1,0 +1,31 @@
+.navbar-nav>li>a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.navbar-brand {
+	height: 40px;
+	padding-top: 10px;
+}
+.navbar {
+	min-height: 40px;
+}
+.navbar-toggle {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+.logo {
+	height: 130px;
+	width: 270px;
+	display: block;
+	margin: 0 auto;
+}
+
+#searchlogo {
+	position: relative;
+	top: 60px;
+}
+#searchinput {
+	position: relative;
+	top: 40px;
+}
